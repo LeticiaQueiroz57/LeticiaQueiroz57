@@ -1,6 +1,4 @@
-# Letícia Queiroz
-
-## Sobre mim
+# Sobre mim
 Estou cursando Engenharia da Computação na Faculdade Impacta Tecnologia. Apaixonada por tecnologia e buscando uma oportunidade de estágio na área. No momento, estou estudando desenvolvimento web, mais especificamente Java + Spring boot, já que pretendo me aprofundar em Back-end.
 
 ## Tecnologias e habilidades
